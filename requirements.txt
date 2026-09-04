@@ -1,4 +1,4 @@
 streamlit
 google-genai
-PDF extraction
-DOCX extraction
+pypdf
+pydocx
