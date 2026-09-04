@@ -9,7 +9,6 @@ import re
 from pathlib import Path
 from typing import Any
 
-!pip install streamlit pypdf python-docx -qq
 import streamlit as st
 from google import genai
 from google.genai import types
